@@ -7,3 +7,5 @@ print(score, player)
 
 _pre = 'anmy'
 print(_pre)
+
+print("hello world")
